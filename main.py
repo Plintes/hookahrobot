@@ -110,7 +110,7 @@ def chooser(call):
 
         out += '\n\nПервым курит калик: ' + '@' + a[0]
         a = []
-        bot.edit_message_text(out, call.message.chat.id, call.message.message_id, reply_markup=keyboard
+        bot.edit_message_text(out, call.message.chat.id, call.message.message_id
                               , parse_mode='Markdown')
 
 
