@@ -6,7 +6,7 @@ import time
 
 ###############################################################
 API_TOKEN = "447246469:AAETslLMelxZhW-nbpOTLRJQY0m2D-1fCjA"
-WEBHOOK_HOST = '89.223.29.238'
+WEBHOOK_HOST = '78.46.170.91'
 WEBHOOK_PORT = 8443  # 443, 80, 88 or 8443 (port need to be 'open')
 WEBHOOK_LISTEN = '0.0.0.0'  # In some VPS you may need to put here the IP addr
 WEBHOOK_SSL_CERT = './webhook_cert.pem'  # Path to the ssl certificate
