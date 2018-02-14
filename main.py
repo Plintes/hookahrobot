@@ -5,7 +5,7 @@ import flask
 import time
 
 ###############################################################
-API_TOKEN = "447246469:AAETslLMelxZhW-nbpOTLRJQY0m2D-1fCjA"
+API_TOKEN = "447246469:AAE8HO1lTdCx8VVSrdvhDMSYZC8Hl_zhb-g"
 WEBHOOK_HOST = '78.46.170.91'
 WEBHOOK_PORT = 8443  # 443, 80, 88 or 8443 (port need to be 'open')
 WEBHOOK_LISTEN = '0.0.0.0'  # In some VPS you may need to put here the IP addr
