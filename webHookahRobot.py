@@ -7,13 +7,8 @@ import time
 token = "447246469:AAER6govwajyfL5l1K1y5DnZ0DbH7ofZ8oM"
 
 ###############################################################
-<<<<<<< HEAD:webHookahRobot.py
 API_TOKEN = token
 WEBHOOK_HOST = '91.228.155.208'
-=======
-API_TOKEN = token
-WEBHOOK_HOST = '91.228.155.208'
->>>>>>> 2d654e5496a3e52925b5abf987676e8797945d71:main.py
 WEBHOOK_PORT = 8443  # 443, 80, 88 or 8443 (port need to be 'open')
 WEBHOOK_LISTEN = '0.0.0.0'  # In some VPS you may need to put here the IP addr
 WEBHOOK_SSL_CERT = './webhook_cert.pem'  # Path to the ssl certificate
