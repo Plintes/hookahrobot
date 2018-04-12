@@ -4,15 +4,15 @@ import random
 import flask
 import time
 
-token = "447246469:AAE8HO1lTdCx8VVSrdvhDMSYZC8Hl_zhb-g"
+token = "447246469:AAER6govwajyfL5l1K1y5DnZ0DbH7ofZ8oM"
 
 ###############################################################
 <<<<<<< HEAD:webHookahRobot.py
-API_TOKEN = "447246469:AAER6govwajyfL5l1K1y5DnZ0DbH7ofZ8oM"
+API_TOKEN = token
 WEBHOOK_HOST = '91.228.155.208'
 =======
 API_TOKEN = token
-WEBHOOK_HOST = '78.46.170.91'
+WEBHOOK_HOST = '91.228.155.208'
 >>>>>>> 2d654e5496a3e52925b5abf987676e8797945d71:main.py
 WEBHOOK_PORT = 8443  # 443, 80, 88 or 8443 (port need to be 'open')
 WEBHOOK_LISTEN = '0.0.0.0'  # In some VPS you may need to put here the IP addr
