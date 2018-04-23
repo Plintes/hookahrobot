@@ -4,11 +4,11 @@ import random
 import flask
 import time
 
-token = "447246469:AAER6govwajyfL5l1K1y5DnZ0DbH7ofZ8oM"
+token = "Enter YOUR token"
 
 ###############################################################
 API_TOKEN = token
-WEBHOOK_HOST = '91.228.155.208'
+WEBHOOK_HOST = 'Enter IP of YOUR server'
 WEBHOOK_PORT = 8443  # 443, 80, 88 or 8443 (port need to be 'open')
 WEBHOOK_LISTEN = '0.0.0.0'  # In some VPS you may need to put here the IP addr
 WEBHOOK_SSL_CERT = './webhook_cert.pem'  # Path to the ssl certificate
