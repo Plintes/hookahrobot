@@ -127,4 +127,4 @@ $ nohup python3 ~/hookahrobot/webHookahRobot.py &
 License
 ----
 
-[Plintes](https://plintes.xyz)
+[Plintes](https://plintes.com)
